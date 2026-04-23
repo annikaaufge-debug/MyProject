@@ -37,6 +37,6 @@ public class Task {
 	
 	@Override
 	public String toString() {
-		return title + " {" + type + "] - " + priority + " - " + status;
+		return title + " [" + type + "] - " + priority + " - " + status;
 	}
 }
