@@ -15,3 +15,6 @@ I plan to demo a working GUI that lets users manage tasks through different work
 
 ## Sprint 3 Notes
 Implemented two new design patterns (State and Strategy) and refactored classes to accomodate. I didn't face many issues implementing the patterns but a concern I have is making sure the state transitions stay clean as more features get added. I also want to figure out how the patterns connect to the Swing GUI in the upcoming sprints.
+
+## Sprint 4 Notes
+Implemented two more design patterns (Command and Observer). The Command pattern enables new undo/redo functionality for task creation, deletion, and state changes. The Observer pattern notifies listeners when the project is being updated. No major issues to report.
